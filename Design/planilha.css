@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F8F8FF;
+}
+
+nav{
+    background-color: #00cccc;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 30px;
+    color: white;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#pesquisa{
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    width: 500px;
+    padding: 10px;
+}
+
+.filtro{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.filtro select{
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    width: 500px;
+    padding: 10px;
+}
+
+.tabela-exemplo{
+    padding: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+table{
+    border-radius: 8px;
+    border-collapse: collapse;
+    border: solid 1px black;
+    width: 80%;
+    background-color: white;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) ;
+}
+
+th, td{
+    padding: 10px;
+    border: solid 1px #ddd;
+}
+
+th{
+    background-color: #00cccc;
+    color: white;
+}
+
+.linha-cinza{
+    background-color: #f2f2f2;
+}
+
+button{
+    background-color: #00cccc;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: solid 0.1px white;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: #01b1b1;
+}
+
+.botoes{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-top: 15px;
+   margin-bottom: 30px;
+}
+
+.botoes a{
+    background-color: #00cccc;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: solid 0.1px white;
+    border-radius: 10px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.botoes a:hover{
+    background-color: #01b1b1;
+}
+
+footer{
+    background-color: #00cccc;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
