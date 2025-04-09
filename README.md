@@ -1,33 +1,55 @@
-# **Sistema de Controle de Estoque**
+## Sistema de Controle de Estoque
 
-Olá a todos!
+Este repositório contém o projeto de um **Sistema de Controle de Estoque**, desenvolvido por nosso grupo como parte do curso técnico. O sistema tem como objetivo gerenciar a entrada, saída e organização de produtos de forma simples e prática.
 
-Este é o repositório oficial do nosso projeto **Sistema de Controle de Estoque**. Aqui postaremos os códigos e arquivos relacionados ao desenvolvimento para facilitar a comunicação entre os membros e permitir que todos acompanhem o que está sendo feito.
+## Funcionalidades principais (em desenvolvimento)
 
-## **Organização do Repositório**
-
-O projeto está dividido em **branches** conforme as áreas de atuação de cada equipe:
-
-- `design` – Responsável pelo layout e identidade visual.  
-- `front-end` – Responsável pela interface e interação com o usuário.  
-- `back-end` – Responsável pela lógica do sistema e integração com o banco de dados.  
-- `banco-de-dados` – Responsável pela estrutura e gerenciamento dos dados.
-
-## **Acesso e Permissões**
-
-Atualmente, o repositório está **público** para facilitar a visualização por parte dos membros do grupo, inclusive para aqueles que ainda não possuem uma conta no GitHub.  
-No entanto, para quem for colaborar diretamente com a programação, será necessário criar uma conta e solicitar o acesso de edição. Assim, poderemos liberar as permissões necessárias.
-
-## **Comunicação e Dúvidas**
-
-Estamos utilizando a aba **Issues** do GitHub para:
-
-- Discutir ideias ou tarefas pendentes  
-- Compartilhar informações importantes  
-- Tirar dúvidas sobre o projeto
-
-O **Lucas** já deixou alguns comentários por lá, então fiquem à vontade para participar também!
+- Cadastro de produtos
+- Registro de entrada e saída de itens
+- Atualização automática de quantidades em estoque
+- Consulta e filtragem de produtos
 
 ---
 
-Caso tenha qualquer dúvida adicional ou precise de ajuda, entre em contato diretamente **comigo ou com o Lucas**.
+## Como funciona este repositório?
+
+Este repositório usa o **GitHub**, uma plataforma para versionamento e colaboração de código. Aqui está o que você precisa saber para começar, mesmo sem experiência anterior:
+
+### O que é um repositório?
+
+Um repositório no GitHub é como uma "pasta na nuvem" que guarda todos os arquivos do projeto, incluindo código, documentos, imagens, etc.
+
+### O que são branches?
+
+Branches (ramificações) são versões paralelas do projeto. Neste repositório, temos:
+
+- **master**: branch principal com o código principal do sistema.
+- **design**: branch usada apenas para armazenar imagens e referências do design. Não é usada no desenvolvimento do sistema.
+
+### O que é um commit?
+
+Um commit é como um "salvar com comentário". Toda vez que alguém faz uma alteração e envia para o GitHub, é registrado com um nome, autor e data.
+
+### O que é uma pull request?
+
+É uma forma de propor mudanças no projeto. Você cria uma nova branch, faz alterações, e então cria uma pull request para discutir e revisar antes de unir as mudanças à branch principal.
+
+---
+
+## Como contribuir com o projeto?
+
+1. Crie uma nova branch com seu nome ou com o nome da funcionalidade que vai trabalhar.
+2. Faça suas alterações e envie para o repositório.
+3. Acesse o GitHub e clique em **"Compare & pull request"** para enviar sua sugestão de mudança.
+
+---
+
+## Dicas para quem nunca usou GitHub
+
+- Não tenha medo de errar! O GitHub salva todo o histórico e permite voltar atrás.
+- Sempre trabalhe em uma branch separada para evitar conflitos no projeto principal.
+- Use mensagens de commit claras, explicando o que você alterou.
+
+---
+
+**Qualquer dúvida, estamos aqui pra aprender juntos!**
