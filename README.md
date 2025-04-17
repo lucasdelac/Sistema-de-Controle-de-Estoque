@@ -12,11 +12,13 @@ Descrição do projeto
 
 ## Integrantes
 
+* 
+
 Integrantes do projeto
 
-## Orientador
+## Professor orientador
 
-Professor Marlon Felipe
+* Marlon Felipe
 
 ## Planejamento
 
