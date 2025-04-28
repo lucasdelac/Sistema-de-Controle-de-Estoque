@@ -1,8 +1,8 @@
 cff-version: 1.0.1
-message: Por favor, cite este software utilizando os metadados abaixo.
+message: "Por favor, cite este software utilizando os metadados abaixo."
 authors:
   - given-names: Alisson
-    family-names: Braga
+    family-names: Barbosa
   - given-names: Allexandre
     family-names: Campos
   - given-names: Carlos
@@ -32,7 +32,10 @@ authors:
   - given-names: Warlei
     family-names: Teodoro
 keywords:
-  - Software Educacional
-  - Projeto Acadêmico
-license: CC-BY-4
+  - "Software Educacional"
+  - "Projeto Acadêmico"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-04-17
+
 
