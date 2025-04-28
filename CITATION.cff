@@ -1,1 +1,38 @@
+cff-version: 1.0.1
+message: Por favor, cite este software utilizando os metadados abaixo.
+authors:
+  - given-names: Alisson
+    family-names: Braga
+  - given-names: Allexandre
+    family-names: Campos
+  - given-names: Carlos
+    family-names: Paula
+  - given-names: Carolina
+    family-names: Braga
+  - given-names: Diego
+    family-names: Ferreira
+  - given-names: Eduardo
+    family-names: Martins
+  - given-names: Filipe
+    family-names: Andrade
+  - given-names: Gabriel
+    family-names: Castro
+  - given-names: Gabriel
+    family-names: Reis
+  - given-names: Lucas
+    family-names: Passos
+  - given-names: Matheus
+    family-names: Marques
+  - given-names: Matheus
+    family-names: Oliveira
+  - given-names: Samuel
+    family-names: Muneron
+  - given-names: Victor
+    family-names: Oliveira
+  - given-names: Warlei
+    family-names: Teodoro
+keywords:
+  - Software Educacional
+  - Projeto Acadêmico
+license: CC-BY-4
 
