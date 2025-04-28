@@ -12,7 +12,35 @@ Descrição do projeto
 
 ## Integrantes
 
-* 
+* Alisson Barbosa
+
+* Allexandre Campos
+
+* Carlos Paula
+
+* Carolina Braga
+
+* Diego Ferreira
+
+* Eduardo Martins
+
+* Filipe Andrade
+
+* Gabriel Castro
+
+* Gabriel Reis
+
+* Lucas Passos
+
+* Matheus Marques
+
+* Matheus Oliveira
+
+* Samuel Muneron
+
+* Victor Oliveira
+
+* Warlei Teodoro
 
 Integrantes do projeto
 
